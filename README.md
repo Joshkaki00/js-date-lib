@@ -104,4 +104,4 @@ The library is built in multiple formats:
 
 ## License
 
-ISC 
+MIT - Feel free to use 
