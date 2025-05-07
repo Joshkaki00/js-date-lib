@@ -1,5 +1,5 @@
 {
-  "name": "js-date-library",
+  "name": "@joshkaki00/js-date-library",
   "version": "1.0.0",
   "description": "A JavaScript date manipulation library",
   "main": "dist/date-lib.cjs.js",
