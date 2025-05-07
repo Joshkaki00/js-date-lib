@@ -5,7 +5,7 @@ A simple and powerful JavaScript date manipulation library that provides an easy
 ## Installation
 
 ```bash
-npm install js-date-library
+npm install @joshkaki00/js-date-library
 ```
 
 ## Usage
