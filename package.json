@@ -1,6 +1,6 @@
 {
   "name": "@joshkaki00/js-date-library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A JavaScript date manipulation library",
   "main": "dist/date-lib.cjs.js",
   "module": "dist/date-lib.esm.js",
